@@ -6,3 +6,4 @@ Line 4
 New line from feature
 
 Master changes
+Feature commit
